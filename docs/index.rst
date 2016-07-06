@@ -17,7 +17,7 @@ to be executed once with *Device A* as the |DIT| and *Device B* as the
 .. toctree::
    :maxdepth: 2
 
-   TC_BCH_BLE_01
+.. TC_BCH_BLE_01
    
 List of Interoperability Test Requirements
 ==========================================
