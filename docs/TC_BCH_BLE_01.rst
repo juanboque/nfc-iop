@@ -45,8 +45,7 @@ Acceptance criteria
 -------------------
 The DUT pairs with the RS
 
-
-Scenario 	TC_BCH_XXX_BV_01.A Static Connection Handover to a BLE carrier
+Scenario 	TC_BCH_BV_01.A Static Connection Handover to a BLE carrier
 --------------------------------------------------------------------------
 
 ==== ========= =========
