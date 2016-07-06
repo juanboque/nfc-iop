@@ -1,6 +1,6 @@
-==========================================
-NFC Device Interoperability Test Scenarios
-==========================================
+================================================================
+NFC Forum Bluetooth Connection Handover Test Cases Specification
+================================================================
 
 This documentation proposes interoperability test scenarios for NFC
 Devices such as smartphones, tablets, laptops and other comparably
@@ -17,11 +17,8 @@ to be executed once with *Device A* as the |DIT| and *Device B* as the
 .. toctree::
    :maxdepth: 2
 
-   ux/index
-   pp/index
-   dx/index
-   ch/index
-
+   TC_BCH_BLE_01
+   
 List of Interoperability Test Requirements
 ==========================================
 
