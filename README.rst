@@ -14,3 +14,8 @@ cases evolve over time.
 The documentation is written in reStructuredText and can be build
 using Sphinx. A usually up-to-date HTML version is available at
 http://nfciop.readthedocs.org/en/latest/.
+
+Test Juan
+=========
+
+Making new BTTestSpec.
